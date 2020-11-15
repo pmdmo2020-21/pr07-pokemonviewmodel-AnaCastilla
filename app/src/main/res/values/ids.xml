@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="llTop" type="id" />
+    <item name="imgPokemonBattleTop" type="id" />
+    <item name="txtTopPokemonName" type="id" />
+    <item name="btnFight" type="id" />
+    <item name="imgVs" type="id" />
+    <item name="llBottom" type="id" />
+    <item name="imgPokemonBattleBottom" type="id" />
+    <item name="guideline" type="id" />
+    <item name="guideline2" type="id" />
+    <item name="txtInstructions" type="id" />
+    <item name="imgSelectFirstPokemon" type="id" />
+    <item name="rbSelectFirstPokemon" type="id" />
+    <item name="imgSelectSecondPokemon" type="id" />
+    <item name="rbSelectSecondPokemon" type="id" />
+    <item name="imgSelectThirdPokemon" type="id" />
+    <item name="rbSelectThirdPokemon" type="id" />
+    <item name="imgSelectFourthPokemon" type="id" />
+    <item name="rbSelectFourthPokemon" type="id" />
+    <item name="guideline4" type="id" />
+    <item name="imgSelectFifthPokemon" type="id" />
+    <item name="rbSelectFifthPokemon" type="id" />
+    <item name="imgSelectSixthPokemon" type="id" />
+    <item name="rbSelectSixthPokemon" type="id" />
+    <item name="guideline3" type="id" />
+    <item name="guideline5" type="id" />
+    <item name="txtWinnerTop" type="id" />
+    <item name="imgWinnerPokemon" type="id" />
+    <item name="txtWinnerBottom" type="id" />
+    <item name="txtBottomPokemonName" type="id" />
+</resources>
