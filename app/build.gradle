@@ -51,4 +51,7 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:X.X.X"
     implementation 'androidx.activity:activity-ktx:X.X.X'
     implementation "androidx.lifecycle:lifecycle-extensions:X.X.X"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:X.X.X"
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:X.X.X"
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-savedstate:X.X.X'
 }
